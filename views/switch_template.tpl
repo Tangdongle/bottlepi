@@ -1,0 +1,1 @@
+Switch pin {{pin}} {{state}}
